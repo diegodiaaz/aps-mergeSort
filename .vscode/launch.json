@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Visualizador",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/visualizadorDados.py",
+            "args": ["dados_ordenados.csv", "--output", "visualizacoes"],
+            "console": "integratedTerminal"
+        }
+    ]
+}

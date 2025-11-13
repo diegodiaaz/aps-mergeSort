@@ -1,0 +1,12 @@
+===== ESTATÍSTICAS DE EXECUÇÃO DO MERGESORT =====
+
+Arquivo processado: focos_br_sc_ref_2024.csv
+Total de registros: 1801
+Campo de ordenação: data_pas
+
+--- Métricas de Desempenho ---
+Tempo de execução da ordenação: 0.000997 segundos
+Total de comparações: 11174
+Total de movimentações: 39128
+
+===== FIM DAS ESTATÍSTICAS =====
